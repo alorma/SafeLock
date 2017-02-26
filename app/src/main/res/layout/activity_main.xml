@@ -45,6 +45,7 @@
         android:padding="@dimen/base_dimen_x4"
         android:textSize="@dimen/feature_switch"
         android:background="?selectableItemBackground"
+        android:id="@+id/selectContact"
         />
     <Switch
         android:layout_width="match_parent"
